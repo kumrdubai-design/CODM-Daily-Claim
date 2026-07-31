@@ -1,10 +1,10 @@
 {
-  "player_id": "username",
+  "player_id": "67",
   "region": "auto",
   "country_guess": "IN",
   "profile": {
-    "username": "username",
-    "shortId": "8VUGGJ",
+    "username": "67",
+    "shortId": "HHGUNZ",
     "picUrl": "",
     "levelImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_playerlevel.png",
     "rank": "Rookie I",
@@ -12,15 +12,15 @@
   },
   "resolved": {
     "region": "sa",
-    "country": "AU"
+    "country": "IQ"
   },
-  "country": "AU",
+  "country": "IQ",
   "freebies": [
     {
       "skuId": "com.activision.callofduty.shooter.tier_1b_0_0",
       "name": "DAILY GIFT",
       "status": "ACTIVE",
-      "buyUrl": "https://order-eu.codashop.com/claim-freebie-reward",
+      "buyUrl": "https://order-sg.codashop.com/claim-freebie-reward",
       "remaining": 1,
       "limit": 1,
       "refreshRate": 86400.0,
@@ -30,7 +30,7 @@
       "skuId": "com.activision.callofduty.weekotov2_1o_0_0",
       "name": "FREE CHARM: THE PHANTOM THIEVES",
       "status": "ACTIVE",
-      "buyUrl": "https://order-eu.codashop.com/claim-freebie-reward",
+      "buyUrl": "https://order-sg.codashop.com/claim-freebie-reward",
       "remaining": 1,
       "limit": 1,
       "refreshRate": 8640000000.0,
